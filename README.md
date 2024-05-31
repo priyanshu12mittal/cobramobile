@@ -1,8 +1,12 @@
 # CobraMobile
 
+![CobraMobile Logo](assets/logo.png) <!-- Add your logo image here if available -->
+
 ## Overview
 
 CobraMobile is a web application that allows users to create custom high-quality phone cases. The app provides an intuitive design tool for personalizing phone cases, ensuring a unique product for each customer.
+
+![Custom Phone Case](Screenshot%202024-05-31%20103057.png)
 
 ## Features
 
@@ -10,10 +14,12 @@ CobraMobile is a web application that allows users to create custom high-quality
 - **Responsive Design:** The application is fully responsive and works on all devices.
 - **High-Quality Materials:** Ensures that all phone cases are made from high-quality materials for durability and aesthetics.
 
+![Phone Case Details]()
+
 ## Technologies Used
 
 - **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express
+- **Backend:** Stripe,Uploadthing,neon
 - **Deployment:** Vercel
 
 ## Getting Started
