@@ -1,12 +1,12 @@
 # CobraMobile
 
-![CobraMobile Logo](assets/logo.png) <!-- Add your logo image here if available -->
+![CobraMobile Logo](/cobra%20assets/Screenshot%202024-05-31%20102706.png) <!-- Add your logo image here if available -->
 
 ## Overview
 
 CobraMobile is a web application that allows users to create custom high-quality phone cases. The app provides an intuitive design tool for personalizing phone cases, ensuring a unique product for each customer.
 
-![Custom Phone Case](Screenshot%202024-05-31%20103057.png)
+![Custom Phone Case](/cobra%20assets/Screenshot%202024-05-31%20102908.png)
 
 ## Features
 
@@ -14,12 +14,16 @@ CobraMobile is a web application that allows users to create custom high-quality
 - **Responsive Design:** The application is fully responsive and works on all devices.
 - **High-Quality Materials:** Ensures that all phone cases are made from high-quality materials for durability and aesthetics.
 
-![Phone Case Details]()
+![Phone Case Details](/cobra%20assets/Screenshot%202024-05-31%20103027.png)
 
+![custom](/cobra%20assets/Screenshot%202024-05-31%20103057.png)
+
+![payment](/cobra%20assets/Screenshot%202024-05-31%20103121.png)
+![thank you page](/cobra%20assets/Screenshot%202024-05-31%20103303.png)
 ## Technologies Used
 
-- **Frontend:** React, HTML, CSS
-- **Backend:** Stripe,Uploadthing,neon
+- **Frontend:** NextJs14,Tailwind, React, Shadcn UI
+- **Backend:** Stripe,Uploadthing,Neon
 - **Deployment:** Vercel
 
 ## Getting Started
@@ -79,5 +83,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries, please contact:
 
-- Email: support@cobramobile.com
+- Email: emailforfullstackprojects@gmail.com
 - Website: [CobraMobile](https://cobramobile.vercel.app/)
